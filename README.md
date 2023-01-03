@@ -1,5 +1,7 @@
 # Before Linux Workshops
 
+<img src="banner.png">
+
 I'm glad you took the chance to learn more about Linux; 
 
 I'll use this opportunity to guide you on the steps required from my experience in order to have a solid foundation in Linux.
