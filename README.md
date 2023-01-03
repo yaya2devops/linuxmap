@@ -11,7 +11,7 @@ Let's put it in steps and i'll link you in each:
 
 ### Table of Contents
 - [1- Get Familiar With The Command Line](#1--get-familiar-with-the-command-line)
-- [2- Permissions and Priviliges](#2--permissions-and-priviliges)
+- [2- Permissions and Privileges](#2--permissions-and-privileges)
 - [3- Get Familiar with Shell Scripting and Automation](#3--get-familiar-shell-scripting-and-automation)
 - [4- Master The Command Line Text Editors](#4--master-the-command-line-text-editors)
 - [5- Next-Level Workshops](#5--next-level-workshops)
@@ -22,7 +22,7 @@ Let's put it in steps and i'll link you in each:
 
 You can refer to my article [here](https://blog.yahya-abulhaj.dev/gitgithub-workflow-in-80-seconds#heading-linux-commands). It will also introduce you to GitHub and Git.
 
-## 2- Permissions and Priviliges
+## 2- Permissions and Privileges
 - Learn and Recognize the significance of file permissions and user management in Linux. 
 
 This is necessary for system security and ensuring that only authorized users have access to specific resources.
