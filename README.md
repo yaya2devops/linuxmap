@@ -29,7 +29,7 @@ Once finished, you can go further and try some [Shell Exercices from here](https
 ## 4- Master The Command Line Text Editors
 Learn how to use the various text editors available in Linux, such as vi and emacs, and become familiar with them.
 
-## 4- Next-Level Workshops
+## 5- Next-Level Workshops
 After completing the preceding four points, you should be ready to move on to more advanced scenarios.
 
 NOW, experiment with different commands and options by using the command line.
