@@ -10,7 +10,7 @@ Let's put it in steps and i'll link you in each:
 ## 1- Get Familiar With The Command Line
 - Learn the fundamental commands and structure of the Linux command line. Navigating the file system, manipulating files and directories, and running programs are all component of this. 
 
-You can refer to my article [here](https://blog.yahya-abulhaj.dev/gitgithub-workflow-in-80-seconds). It will also introduce you to GitHub and Git.
+You can refer to my article [here](https://blog.yahya-abulhaj.dev/gitgithub-workflow-in-80-seconds#heading-linux-commands). It will also introduce you to GitHub and Git.
 
 ## 2- Permissions and Priviliges
 - Learn and Recognize the significance of file permissions and user management in Linux. 
