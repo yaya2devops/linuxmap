@@ -1,6 +1,5 @@
 # Linux Workshops
 
-Let's go, this going to be fun.
 
 
 - Workshop 1: [Configuring and compiling a kernel kernel](workshop1/README.md)
