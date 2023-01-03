@@ -12,7 +12,7 @@ Let's put it in steps and i'll link you in each:
 ### Table of Contents
 - [1- Get Familiar With The Command Line](#1--get-familiar-with-the-command-line)
 - [2- Permissions and Priviliges](#2--permissions-and-priviliges)
-- [3- Get Familiar Shell Scripting and Automation](#3--get-familiar-shell-scripting-and-automation)
+- [3- Get Familiar with Shell Scripting and Automation](#3--get-familiar-shell-scripting-and-automation)
 - [4- Master The Command Line Text Editors](#4--master-the-command-line-text-editors)
 - [5- Next-Level Workshops](#5--next-level-workshops)
 - [6- EXPLORE MORE](#6--explore-more)
