@@ -44,3 +44,6 @@ This will help you become more comfortable with using the command line and allow
 - Workshop 1: [Configuring and compiling a kernel](workshop1/README.md)
 - Workshop 2: [Emulate the Raspberry Pi under Ubuntu with Qemu](workshop2/README.md)
 - Workshop 3: [Building an embedded system with the Buildroot project](workshop3/README.md)
+
+### 6- EXPLORE MORE
+
