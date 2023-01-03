@@ -9,6 +9,14 @@ I'll use this opportunity to guide you on the steps required from my experience 
 Let's put it in steps and i'll link you in each:
 
 
+### Table of Contents
+- [1- Get Familiar With The Command Line](#1--get-familiar-with-the-command-line)
+- [2- Permissions and Priviliges](#2--permissions-and-priviliges)
+- [3- Get Familiar Shell Scripting and Automation](#3--get-familiar-shell-scripting-and-automation)
+- [4- Master The Command Line Text Editors](#4--master-the-command-line-text-editors)
+- [5- Next-Level Workshops](#5--next-level-workshops)
+- [6- EXPLORE MORE](#6--explore-more)
+
 ## 1- Get Familiar With The Command Line
 - Learn the fundamental commands and structure of the Linux command line. Navigating the file system, manipulating files and directories, and running programs are all component of this. 
 
