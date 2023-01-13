@@ -26,16 +26,16 @@ minima:
 
   # Generate social links in footer.
   #
-   social_links:
-     - { platform: hashnode,          user_url: "https://blog.yahya-abulhaj.dev/" }
+social_links:
+  - { platform: hashnode,          user_url: "https://blog.yahya-abulhaj.dev/" }
   #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-     - { platform: github,         user_url: "https://github.com/Y4HYA4" }
+  - { platform: github,         user_url: "https://github.com/Y4HYA4" }
   #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-     - { platform: instagram,      user_url: "https://www.instagram.com/yaya2devops/" }
+  - { platform: instagram,      user_url: "https://www.instagram.com/yaya2devops/" }
   #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
-     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/yahya-abulhaj/" }
+  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/yahya-abulhaj/" }
   #   - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
   #   - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
   #   - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
@@ -46,9 +46,9 @@ minima:
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
 #
- header_pages:
+header_pages:
   - about.md
 
 # Set to `true` to show excerpts on the homepage.
 #
- show_excerpts: true
+show_excerpts: true
