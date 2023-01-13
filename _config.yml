@@ -7,7 +7,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  That's how i think you should start learning Linux.
+  When it comes to learning Linux, there are a variety of different approaches that one can take to gain a deeper understanding of the operating system. That is my user-friendly attempt at how I believe you should begin learning Linux.
 # Build settings
 
 theme: minima
@@ -26,16 +26,16 @@ minima:
 
   # Generate social links in footer.
   #
-  # social_links:
-  #   - { platform: devto,          user_url: "https://dev.to/jekyll" }
+   social_links:
+     - { platform: hashnode,          user_url: "https://blog.yahya-abulhaj.dev/" }
   #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-  #   - { platform: github,         user_url: "https://github.com/jekyll/minima" }
+     - { platform: github,         user_url: "https://github.com/Y4HYA4" }
   #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-  #   - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
+     - { platform: instagram,      user_url: "https://www.instagram.com/yaya2devops/" }
   #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
-  #   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
+     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/yahya-abulhaj/" }
   #   - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
   #   - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
   #   - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
@@ -46,9 +46,9 @@ minima:
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
 #
-# header_pages:
-#   - about.md
+ header_pages:
+  - about.md
 
 # Set to `true` to show excerpts on the homepage.
 #
-# show_excerpts: false
+ show_excerpts: true
