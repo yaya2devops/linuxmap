@@ -52,5 +52,23 @@ This will help you become more comfortable with using the command line and allow
 - Workshop 2: [Emulate the Raspberry Pi under Ubuntu with Qemu](workshop2/README.md)
 - Workshop 3: [Building an embedded system with the Buildroot project](workshop3/README.md)
 
-### 6- EXPLORE MORE
+
+<details>
+
+<summary>
+DevOps Mindset
+</summary>
+
+The concept of pipelines, represented by the "|" symbol also known as the pipe operator in Linux, is a basic feature of the command line that allows multiple commands to be connected together, where the output of one command is passed as input to the next command. This allows for powerful and flexible automation and data processing.    
+
+
+<br> 
+e.g.
+
+the command `ls -l | grep "txt"` will list all files in the current directory in long format, and then pass the output of that command to the `grep` command, which will search for the string `"txt"` in the output. The command will show only the files that contain the string `"txt"`
+
+</details>
+
+
+### 6- EXPLORE MORE - Never Stop
 
