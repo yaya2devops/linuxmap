@@ -137,5 +137,5 @@ A windows should open with Raspberry Pi UI
 <img src="rasOS.png">
 
 
-Well done!
+# Well done!
 Move Ahead to the [third workshop](../workshop3/README.md)
