@@ -1,4 +1,4 @@
-# Workshopp 2: Ubunto Raspberry Pi Simulation with Qemu
+# Workshop 2: Ubunto Raspberry Pi Simulation with Qemu
 
 ## Goals
 - Install Qemu
@@ -135,3 +135,7 @@ xtightvncviewer 127.0.0.1:5900
 A windows should open with Raspberry Pi UI
 
 <img src="rasOS.png">
+
+
+Well done!
+Move Ahead to the [third workshop](../workshop3/README.md)
