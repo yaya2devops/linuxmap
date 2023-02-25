@@ -184,4 +184,4 @@ cat /proc/cpuinfo
 
 <img src="verify.png">
 
-## Good GAME!
+## Great, [RedHat is good in the cloud](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/installation_guide/chap-getting-started)
