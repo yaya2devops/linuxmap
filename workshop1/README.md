@@ -124,3 +124,10 @@ The screen should launch, click advanced for ubunto and pick the version you ins
 
 
 <img src="ubunto.png">
+
+
+
+### Well done!
+Move Ahead to the [second workshop](workshop2/README.md)
+
+
