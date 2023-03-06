@@ -72,3 +72,6 @@ the command `ls -l | grep "txt"` will list all files in the current directory in
 
 ### 6- EXPLORE MORE - Never Stop
 
+
+> [Let's connect](https://www.linkedin.com/in/yahya-abulhaj/)
+
