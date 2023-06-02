@@ -14,7 +14,7 @@ Let's put it in steps and i'll link you in each:
 - [3- Get Familiar with Shell Scripting and Automation](#3--get-familiar-shell-scripting-and-automation)
 - [4- Master The Command Line Text Editors](#4--master-the-command-line-text-editors)
 - [5- Next-Level Workshops](#5--next-level-workshops)
-- [6- EXPLORE MORE](#6--explore-more)
+- [Bonus](#my-next-inspiration-for-you-lets-connect)
 
 ## 1- Get Familiar With The Command Line
 - Learn the fundamental commands and structure of the Linux command line. Navigating the file system, manipulating files and directories, and running programs are all component of this. 
@@ -39,13 +39,15 @@ Once finished, you can go further and try some [Shell Exercices from here](https
 Learn how to use the various text editors available in Linux, such as vi and emacs, and become familiar with them.
 
 ## 5- Next-Level Workshops
-After completing the preceding four points, you should be ready to move on to more advanced scenarios.
+Once you've finished the previous steps, you'll be well-prepared to delve into more advanced situations.<br>
+Start exploring various commands and flags using the command line. 
 
-NOW, experiment with different commands and options by using the command line.
+These workshops provide a great start to real-world scenarios; I attended them as part of `Embedded Linux` subject in the 5th semester of college. <br>
+I've bundled them for your benefit.
 
-This is true for these workshops. Here you will become acquainted with applying the above knowledge in real-world scenarios such as OS installation and configuration. You will simuate your own OS as well.
+They provide practical way to apply the knowledge you've gained, incl. installing and configuring the OS and simulating your own. 
 
-This will help you become more comfortable with using the command line and allow you to better understand how Linux works. Good luck, and remember to enjoy the process.
+I am convinced you will gain greater awareness of Linux as a result of doing this. Gl, and remember to enjoy the process.
 
 
 - Workshop 1: [Configuring and compiling a kernel](workshop1/README.md)
@@ -60,18 +62,15 @@ DevOps Mindset
 </summary>
 
 The concept of pipelines, represented by the "|" symbol also known as the pipe operator in Linux, is a basic feature of the command line that allows multiple commands to be connected together, where the output of one command is passed as input to the next command. This allows for powerful and flexible automation and data processing.    
-
-
 <br> 
 e.g.
 
-the command `ls -l | grep "txt"` will list all files in the current directory in long format, and then pass the output of that command to the `grep` command, which will search for the string `"txt"` in the output. The command will show only the files that contain the string `"txt"`
+the command `ls -l | grep "txt"` will list all files in the current directory in long format, and then pass the output of that command to the `grep` command, which will search for the string `"txt"` in the output. <br> The command will show only the files that contain the string `"txt"`
+  
+  Related thoughts; bash, yml, iac, pipe, devops, cicd, auto
 
 </details>
 
 
-### 6- EXPLORE MORE - Never Stop
-
-
-> [Let's connect](https://www.linkedin.com/in/yahya-abulhaj/)
+### My next [inspiration](https://www.redhat.com/en/services/certification/rhcsa) for you, [let's connect](https://www.linkedin.com/in/yahya-abulhaj/)
 
