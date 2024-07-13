@@ -1,12 +1,11 @@
 
 <img src="banner.png">
 
-I'm glad you took the chance to learn more about Linux; 
+I'm glad you took the chance to learn more about Linux!
 
 I'll use this opportunity to guide you on the steps required from my experience in order to have a solid foundation in Linux.
 
 Let's put it in steps and i'll link you in each:
-
 
 ### Table of Contents
 - [1- Get Familiar With The Command Line](#1--get-familiar-with-the-command-line)
